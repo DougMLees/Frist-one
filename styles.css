@@ -1,0 +1,73 @@
+﻿
+
+body {
+
+    margin: 0;
+    text-align: center;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.top-cloud {
+    margin-left: 550px;
+    margin-top: 50px;
+}
+
+.bottom-cloud{
+    padding-top: 40px;
+    position: absolute;
+}
+
+h1 {
+    font-size: 5.65rem;
+    margin: 25px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+.profile{
+    padding-top: 50px;
+}
+
+.P1{
+    size: 250px; height: 250px;
+
+}
+h2{
+    ;font-family: 'Merriweather', serif;
+}
+
+h3{
+    font-family: 'Merriweather', serif;
+
+}
+
+.education {
+  text-align: center;
+}
+
+.mountain-image{
+    width:25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
